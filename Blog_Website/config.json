@@ -1,0 +1,20 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost:3308/diaryofdreams",
+    "prod_uri": "mysql://root:@localhost:3308/diaryofdreams",
+    "fb_url":"https://facebook.com/diaryofdreams",
+    "tw_url": "https://twitter.com/diaryofdreams",
+    "gh_url": "https://github.com/diaryofdreams",
+    "blog_name": "Diary Of Dreams",
+    "tag_line": "A Blog Liked By Everyone",
+    "gmail_user":"your emial-id",
+    "gmail_pass": "your gmail password",
+    "about_text": "My name is Kshitij Gupta and this is the very first blog website that i have created where anyone can post blogs.",
+    "no_of_post": 2,
+    "admin_user":"username of your choice",
+    "admin_pass": "password of your choice",
+    "upload_location": "E:\\Python\\Flask_Tutorial\\Uploaded files"
+  }
+}

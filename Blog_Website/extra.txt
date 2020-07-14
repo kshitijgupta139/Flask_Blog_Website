@@ -1,0 +1,3 @@
+set @autoid :=0; 
+update posts set sno = @autoid := (@autoid+1);
+alter table posts Auto_Increment = 1;
